@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Focal
-image: /img/focal4.jpg
+image: /img/focal2.jpeg
 heading: Focal for business
 subheading: Focus on one thing at a time
 mainpitch:

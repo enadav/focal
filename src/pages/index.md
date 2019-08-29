@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Focal
-image: /img/home-jumbotron.jpg
+image: /img/focal4.jpg
 heading: Focal for business
 subheading: Focus on one thing at a time
 mainpitch:
